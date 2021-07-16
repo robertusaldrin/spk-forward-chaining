@@ -1,0 +1,1 @@
+<?php echo "<script> alert ('Mohon maaf. Tidak ditemukan info terkait gejala-gejala yang anda masukkan, Karena keterbatasan data kami...'); window.location = 'index.php';</script>";  ?>
